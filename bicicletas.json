@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "marca": "Olmo",
+      "modelo": "Regal",
+      "rodado": 29,
+      "anio": 2022,
+      "color": "Rojo",
+      "peso": 16,
+      "tipo": "Montañera",
+      "precio": 120000,
+      "vendida": false
+    },
+    {
+      "id": 2,
+      "marca": "Shifter",
+      "modelo": "FM18F29AM210",
+      "rodado": 28,
+      "anio": 2021,
+      "color": "Negro",
+      "peso": 15,
+      "tipo": "Triatlón",
+      "precio": 150000,
+      "vendida": true
+    }
+  ]
+  
